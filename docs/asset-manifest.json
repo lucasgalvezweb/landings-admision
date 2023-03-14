@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43dbf8d5.css",
+    "main.js": "/static/js/main.108d25b6.js",
+    "static/media/video_hero.webm": "/static/media/video_hero.58013663a8cfb46fa6ea.webm",
+    "static/media/map_animation.gif": "/static/media/map_animation.badc09452bcb9b289158.gif",
+    "static/media/fondo_tablet_v1.png": "/static/media/fondo_tablet_v1.925c335d4cf4d83e6540.png",
+    "static/media/fondo_mobile_v1.png": "/static/media/fondo_mobile_v1.1af9e833b53d98a7fce8.png",
+    "static/media/Back_4_Landing.jpg": "/static/media/Back_4_Landing.6c18845adf5a389e2e11.jpg",
+    "static/media/campus.png": "/static/media/campus.e8f58db277243cbf4c8d.png",
+    "static/media/IngElek.png": "/static/media/IngElek.52bf74e8972a04e80cdc.png",
+    "static/media/IngQuimik.png": "/static/media/IngQuimik.0f7952566893b4c5515f.png",
+    "static/media/Danae.png": "/static/media/Danae.1342b09c30ba6e14feda.png",
+    "static/media/Lucia.png": "/static/media/Lucia.ce27a2ed6f1f99524c27.png",
+    "static/media/LOGO-UTEC-B_h_0.png": "/static/media/LOGO-UTEC-B_h_0.fe8358e628f05d435212.png",
+    "static/media/IconGlobal.png": "/static/media/IconGlobal.29cf0a7005870b253e58.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.43dbf8d5.css.map": "/static/css/main.43dbf8d5.css.map",
+    "main.108d25b6.js.map": "/static/js/main.108d25b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43dbf8d5.css",
+    "static/js/main.108d25b6.js"
+  ]
+}
