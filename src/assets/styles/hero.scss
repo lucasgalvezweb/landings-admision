@@ -1,0 +1,67 @@
+.ultimate-center {
+    text-align: -webkit-center;
+}
+
+@media (max-width: 820px) {
+    .video-background {
+        display: none;
+    }
+
+    #hero {
+        background: url(../images/fondo_tablet_v1.png);
+        background-repeat: no-repeat;
+        height: 1210px;
+
+        .form-tivenos-col {
+            display: contents;
+        }
+    }
+}
+
+@media (max-width: 768px) {
+    .video-background {
+        display: none;
+    }
+
+    #hero {
+        background: url(../images/fondo_tablet_v1.png);
+        background-repeat: no-repeat;
+        height: 1190px;
+
+        .form-tivenos-col {
+            display: contents;
+        }
+    }
+}
+
+@media (max-width: 460px) {
+    .video-background {
+        display: none;
+    }
+
+    #hero {
+        background: url(../images/fondo_mobile_v1.png);
+        background-repeat: no-repeat;
+        height: 1270px;
+
+        .form-tivenos-col {
+            display: contents;
+        }
+    }
+}
+
+@media (max-width: 380px) {
+    .video-background {
+        display: none;
+    }
+
+    #hero {
+        background: url(../images/fondo_mobile_v1.png);
+        background-repeat: no-repeat;
+        height: 1270px;
+
+        .form-tivenos-col {
+            display: contents;
+        }
+    }
+}

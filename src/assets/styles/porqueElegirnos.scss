@@ -1,0 +1,42 @@
+#porque-elegirnos {
+    background: linear-gradient(90deg, rgba(31, 161, 245, 0.9724264705882353) 6%, rgba(0, 218, 243, 1) 32%, rgba(0, 201, 253, 1) 48%, rgba(0, 218, 243, 1) 68%, rgba(31, 161, 245, 1) 93%);
+}
+
+@media (max-width: 768px) {
+    #porque-elegirnos {
+
+        .arrowLeft {
+            display: none;
+        }
+
+        .arrowRight {
+            display: none;
+        }
+    }
+}
+
+@media (max-width: 460px) {
+    #porque-elegirnos {
+
+        .arrowLeft {
+            display: none;
+        }
+
+        .arrowRight {
+            display: none;
+        }
+    }
+}
+
+@media (max-width: 380px) {
+    #porque-elegirnos {
+
+        .arrowLeft {
+            display: none;
+        }
+
+        .arrowRight {
+            display: none;
+        }
+    }
+}

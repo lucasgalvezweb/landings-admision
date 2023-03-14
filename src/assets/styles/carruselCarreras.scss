@@ -1,0 +1,34 @@
+#carrusel-carreras {
+
+    background-image: url("../images/Back_4_Landing.jpg");
+
+
+    .slick-next {
+        right: -45px;
+    }
+
+    .slick-next:before {
+        background: url(../images/ArrowYellRight.png);
+        content: " ";
+        height: 37px;
+        width: 22px;
+        color: transparent;
+        display: inline-block;
+        background-repeat: no-repeat;
+    }
+
+    .slick-prev {
+        left: -45px;
+    }
+
+    .slick-prev:before {
+        background: url(../images/ArrowYellLeft.png);
+        content: " ";
+        height: 37px;
+        width: 22px;
+        color: transparent;
+        display: inline-block;
+        background-repeat: no-repeat;
+    }
+
+}
